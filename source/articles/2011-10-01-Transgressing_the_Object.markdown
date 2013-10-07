@@ -5,7 +5,7 @@ tags: "butterfly-effect, pedagogy, transgressing,"
 published: true
 ---
 
-<h2>A Dialogue Between Two Subjects</h2>
+## A Dialogue Between Two Subjects
 <span style="color: #999999;">ALA &amp; RC : October 2011</span>
 
 Before beginning the series, we want to pay homage to authors who have written about the problems inherent in the current dominant hegemony of “deaf education,” which is rooted in the medico-pedagogical perspective. Simms &amp; Thumann have written on the topic of apartheid in deaf education as well as ways that the deaf community is never allowed to define itself (lack of representation). Their work has paved the way for further discussions on the need for prospective teachers and teacher educators to rethink their views regarding deaf people. Others (Nover) have done research about the training content in deaf education programs across America, all of which are also grounded in the medico-pedagogical model. Additional authors include Ladd, who has written about language colonization, and Lane, whose work brought attention to the term, “audism.” Many have written about ASL/English bilingual and bicultural education. All of those publications present indispensable insight and we encourage those who are interested in transforming education in visual-tactile spaces to review their work.
