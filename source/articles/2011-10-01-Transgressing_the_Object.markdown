@@ -6,9 +6,9 @@ published: true
 ---
 
 ## A Dialogue Between Two Subjects
-<span style="color: #999999;">ALA &amp; RC : October 2011</span>
+### ALA & RC October 2011
 
-Before beginning the series, we want to pay homage to authors who have written about the problems inherent in the current dominant hegemony of “deaf education,” which is rooted in the medico-pedagogical perspective. Simms &amp; Thumann have written on the topic of apartheid in deaf education as well as ways that the deaf community is never allowed to define itself (lack of representation). Their work has paved the way for further discussions on the need for prospective teachers and teacher educators to rethink their views regarding deaf people. Others (Nover) have done research about the training content in deaf education programs across America, all of which are also grounded in the medico-pedagogical model. Additional authors include Ladd, who has written about language colonization, and Lane, whose work brought attention to the term, “audism.” Many have written about ASL/English bilingual and bicultural education. All of those publications present indispensable insight and we encourage those who are interested in transforming education in visual-tactile spaces to review their work.
+Before beginning the series, we want to pay homage to authors who have written about the problems inherent in the current dominant hegemony of “deaf education,” which is rooted in the medico-pedagogical perspective. Simms & Thumann have written on the topic of apartheid in deaf education as well as ways that the deaf community is never allowed to define itself (lack of representation). Their work has paved the way for further discussions on the need for prospective teachers and teacher educators to rethink their views regarding deaf people. Others (Nover) have done research about the training content in deaf education programs across America, all of which are also grounded in the medico-pedagogical model. Additional authors include Ladd, who has written about language colonization, and Lane, whose work brought attention to the term, “audism.” Many have written about ASL/English bilingual and bicultural education. All of those publications present indispensable insight and we encourage those who are interested in transforming education in visual-tactile spaces to review their work.
 
 A word about transgressing the object: Inspiration for the title of this series comes from the works of bell hooks and Paulo Freire. Teaching to Transgress (bell hooks) offers stimulating perspectives about how engaged pedagogy invites students to become critical thinkers. In Pedagogy of the Oppressed, Freire presents the idea of “the object” and “the subject,” and ways that the oppressed are usually perceived as objects. In our case, the object would be “deaf.” As such, we investigate ways that focusing on deaf persons as objects ignores the subjective experience of individuals in the classroom. In exploring the liberating power of learning we must transgress the object, the box or bubble that is “the deaf.”
 
@@ -16,7 +16,7 @@ In this series, we interrogate the validity and intent of “deaf education.” 
 
 Dialogue:
 
-(Insert code for this video : <a href="https://vimeo.com/30119827" target="_blank">https://vimeo.com/30119827</a>)
+<a href="https://vimeo.com/30119827" target="_blank">Watch Video</a>
 
 ala: I think I was lucky. I don't remember ever at any time during my childhood and high school years believing that I was limited to a very small pool of jobs or even that I was destined to collect social security for the rest of my life. And I remember knowing that my options for colleges were wide open. I do remember being told there were things I "couldn't do." There were educators who told me I couldn't take specific classes, either because they did not feel I was capable of handling the material or because there were not enough interpreters available.
 
@@ -59,13 +59,14 @@ ala: Ouch. You know, my experience at Gallaudet, was that certain classes (i.e. 
 rc: It certainly didn’t help when the majority of teachers are hearing with substandard sign language skills and an attitude that English skills are more important. There was one class at my high school- Earth System Science. We’d connect with other schools via online chats, and we were always cognizant of the fact that we were working with hearing students. We were constantly questioning the appearance of intelligence through language, and felt the need to show that we were as good as them. We had a group project where three students worked together and we had one student in our group who were comfortable with written English. We each had to write a paper and agreed that this particular student would put them together as one. Later, we found out that she had re-written all of our papers. I went to the teacher to demand that she not be allowed to do that and wanted to know my real grade. The teacher downplayed what this student did, made it seem as if it was ok to do that.
 
 ala: No matter which school we attended—our experiences are the same: limited access to education and constant exposure to a medico-pedagogy, which continues to teach us that we are less: less capable, less qualified, less human.
-<p style="text-align: right;"><a href="#top">Back to the top</a></p>
-<span style="color: #888888;">bell hooks (1994). Teaching to Transgress: Education as the Practice of Freedom.
+
+bell hooks (1994). Teaching to Transgress: Education as the Practice of Freedom.
 Freire, Paulo (1993). Pedagogy of the Oppressed.
 Ladd, Paddy (2003). Understanding Deaf Culture: In Search of Deafhood
 Lane, Harlan (1999). The Mask of Benevolence
 Nover, S. (1995). Politics and language: American Sign Language and English in deaf education. VOLUME 152, NO. 3, 2007 AMERICAN ANNALS OF THE DEAF
-Simms, L. &amp; Thumann, and H. (2009) Minority Education and Identity: Who Decides for Us, the Deaf People? In Ayers, W., Quinn, T., &amp; Stovall, D. (Ed) .<em>The Handbook of Social Justice in Education</em>. Erlbaum Publications, Mahwah, NJ.
-Simms, L., Rusher, M., Andrews, J., &amp; Coryell, Judy (2008) Apartheid in Deaf Education:
-Examining Workforce Diversity. Accepted for publication by the <em>American Annals of the Deaf</em>, Fall Edition.
-Simms, L. &amp; Thumann, H (2007). In Search of a new Linguistically and Culturally Sensitive Paradigm in Deaf Education. Accepted for publication by the <em>American Annals of the Deaf</em>, Summer Edition.</span>
+Simms, L. & Thumann, and H. (2009) Minority Education and Identity: Who Decides for Us, the Deaf People? In Ayers, W., Quinn, T., & Stovall, D. (Ed).
+The Handbook of Social Justice in Education. Erlbaum Publications, Mahwah, NJ.
+Simms, L., Rusher, M., Andrews, J., & Coryell, Judy (2008) Apartheid in Deaf Education:
+Examining Workforce Diversity. Accepted for publication by the <em>American Annals of the Deaf, Fall Edition.
+Simms, L. & Thumann, H (2007). In Search of a new Linguistically and Culturally Sensitive Paradigm in Deaf Education. Accepted for publication by the <em>American Annals of the Deaf, Summer Edition.
