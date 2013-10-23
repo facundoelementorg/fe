@@ -42,16 +42,19 @@ And once that unsightly “deafness” is gone, what becomes of Gallaudet? More 
 
 http://vimeo.com/17964630 The Gallaudet Syndrome 1.1 from http://vimeo.com/user5480741 Butterfly Effect Series on Vimeo.
 
-See also: <span class="Apple-style-span" style="font-size: 18px; font-weight: bold; line-height: 29px;"><a href="http://youtu.be/RrViTBeOvZo">Castberggaard Syndrome</a></span>
+See also: http://youtu.be/RrViTBeOvZo Castberggaard Syndrome
 
-<a href="http://facundoelement.com/projects/the-gallaudet-syndrome/gs-ii/"><em>&gt; Continue to part ii in The Gallaudet Syndrome Series: <strong>On Profiting from Deafness</strong></em></a>
-<h2><img alt="compass" src="http://facundoelement.com/wp-content/uploads/2013/02/compass.png" width="702" height="100" /></h2>
-<h6 style="text-align: right;"><strong>{ <a href="#top">back to top</a> }</strong></h6>
-<h6 style="text-align: right;"><span style="color: #999999;">*Silent Howl</span>
-<span style="color: #999999;"> Pamela Wright-Meinhardt</span>
-<span style="color: #999999;"> Published in Deaf American Poetry</span>
-<span style="color: #999999;"> John Lee Clark (2009)</span></h6>
-<h6 style="text-align: right;"><span style="color: #999999;">*Hearing Privilege at Gallaudet</span>
-<span style="color: #999999;"> Tiffany Tuccoli (2008)</span>
-<span style="color: #999999;"> Masters Thesis, Gallaudet University</span>
-<span style="color: #999999;"> Deaf Studies Department</span></h6>
+http://facundoelement.com/projects/the-gallaudet-syndrome/gs-ii/ Continue to part ii in The Gallaudet Syndrome Series: On Profiting from Deafness
+
+http://facundoelement.com/wp-content/uploads/2013/02/compass.png
+
+back to top
+
+*Silent Howl Pamela Wright-Meinhardt
+Published in Deaf American Poetry
+John Lee Clark (2009)
+
+*Hearing Privilege at Gallaudet
+Tiffany Tuccoli (2008)
+Masters Thesis, Gallaudet University
+Deaf Studies Department
