@@ -42,7 +42,7 @@ And once that unsightly “deafness” is gone, what becomes of Gallaudet? More 
 
 http://vimeo.com/17964630 The Gallaudet Syndrome 1.1 from http://vimeo.com/user5480741 Butterfly Effect Series on Vimeo.
 
-See also: http://youtu.be/RrViTBeOvZo Castberggaard Syndrome
+See also: [Castberggaard Syndrome](http://youtu.be/RrViTBeOvZo)
 
 
 *Silent Howl. Pamela Wright
