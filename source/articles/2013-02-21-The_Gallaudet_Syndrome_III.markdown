@@ -23,7 +23,3 @@ With permission, we are posting her Masters thesis, which was completed in 2008.
 **Note: You might experience a delay in opening the file and this may be due to numerous attempts to download it at one time.
 
 For presentation/workshop, contact her at: ttuccoli@yahoo.com
-
-http://facundoelement.com/projects/the-gallaudet-syndrome/gs-iv/
-Continue to part iv in The Gallaudet Syndrome Series: Exploring Power, Privilege, and Accountability
-http://facundoelement.com/wp-content/uploads/2013/02/compass.png
