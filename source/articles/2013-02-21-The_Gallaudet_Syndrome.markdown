@@ -40,7 +40,8 @@ Or is that being addressed by teaching deaf people that they are a burden and id
 
 And once that unsightly “deafness” is gone, what becomes of Gallaudet? More importantly, if we lose Gallaudet, are we really losing?
 
-http://vimeo.com/17964630 The Gallaudet Syndrome 1.1 from http://vimeo.com/user5480741 Butterfly Effect Series on Vimeo.
+Next:
+[The Gallaudet Syndrome 1.1](http://vimeo.com/17964630) from [Butterfly Effect Series on Vimeo](http://vimeo.com/user5480741).
 
 See also: [Castberggaard Syndrome](http://youtu.be/RrViTBeOvZo)
 
