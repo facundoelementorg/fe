@@ -10,11 +10,11 @@ published: true
 Alison L. Aubrecht (‘01, G ‘03) and Ryan Commerson (‘01, G ‘08)
 September 13, 2010
 
-“I have seen strong-willed individuals crumble in desperation, flailing in frustration, crying out in a fight against helplessness, and straining against steely chains, clinging to stubbornly optimistic desires against constant oppression and ignorance and I have seen denials repeatedly Uncle Tom-ed, the wishfully daring becoming fodder for pinching, parroting crabs retrogressingly destroying courage with silence"
+> I have seen strong-willed individuals crumble in desperation, flailing in frustration, crying out in a fight against helplessness, and straining against steely chains, clinging to stubbornly optimistic desires against constant oppression and ignorance and I have seen denials repeatedly Uncle Tom-ed, the wishfully daring becoming fodder for pinching, parroting crabs retrogressingly destroying courage with silence
 
 Pamela Wright - Silent Howl*
 
-http://vimeo.com/17804534 The Gallaudet Syndrome 1 from http://vimeo.com/user5480741 Butterfly Effect Series on Vimeo.
+[The Gallaudet Syndrome 1](http://vimeo.com/17804534) from [Butterfly Effect Series on Vimeo](http://vimeo.com/user5480741).
 
 Is Gallaudet University worth preserving? What is Gallaudet’s identity? If the answer is that it is a university that exclusively serves deaf people, then how does Gallaudet define “deaf”?
 
@@ -44,9 +44,8 @@ http://vimeo.com/17964630 The Gallaudet Syndrome 1.1 from http://vimeo.com/user5
 
 See also: http://youtu.be/RrViTBeOvZo Castberggaard Syndrome
 
-http://facundoelement.com/projects/the-gallaudet-syndrome/gs-ii/ Continue to part ii in The Gallaudet Syndrome Series: On Profiting from Deafness
 
-*Silent Howl Pamela Wright-Meinhardt
+*Silent Howl Pamela Wright
 Published in Deaf American Poetry
 John Lee Clark (2009)
 
