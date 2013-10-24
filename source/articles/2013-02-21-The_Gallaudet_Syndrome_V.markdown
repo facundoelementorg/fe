@@ -10,11 +10,12 @@ The Gallaudet Syndrome: Rebirth
 Alison L. Aubrecht (‘01, G ‘03) and Ryan Commerson (‘01, G ‘08)
 March 1, 2011
 
-“I had emerged . . .from the asshole of an organism whose sole function is to excrete the... the-the-the poison, the ammo, the defoliant necessary for other, larger, more powerful organisms to destroy the miracle of humanity…I had been coated in this patina of shit for the best part of my life. The stench of it and the stain of it would in all likelihood take the rest of my life to undo. And you know what I did? I took a deep cleansing breath...”
+> “I had emerged . . .from the asshole of an organism whose sole function is to excrete the... the-the-the poison, the ammo, the defoliant necessary for other, larger, more powerful organisms to destroy the miracle of humanity…I had been coated in this patina of shit for the best part of my life. The stench of it and the stain of it would in all likelihood take the rest of my life to undo. And you know what I did? I took a deep cleansing breath...”
 
 From: Michael Clayton (2007)
 
-http://vimeo.com/20501627 The Gallaudet Syndrome: Rebirth from http://vimeo.com/user5480741 Butterfly Effect Series on Vimeo.
+<iframe src="//player.vimeo.com/video/19551476" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/19551476">The Gallaudet Syndrome: Exploring Power, Privilege, and Accountability - Part 3</a> from <a href="http://vimeo.com/user5480741">Butterfly Effect Series</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+[Butterfly Effect Series on Vimeo](http://vimeo.com/user5480741).
 
 In this final installment of the Gallaudet Syndrome series, we begin the journey from reflection to action. Both elements are essential if change is to come into being. The choice to act is a powerful statement and it is also a decision that evokes fear. But it is as necessary as breathing. Absolutely.
 
@@ -44,7 +45,6 @@ A parting message:  “People who shut their eyes to reality simply invite the
 
 Thank you for staying engaged throughout the series. We have very much enjoyed your participation.
 
-http://facundoelement.com/wp-content/uploads/2013/02/compass.png
 
 Michael Clayton (2007) Film
 Simon Wiesenthal (1997). The Sunflower: On the Possibilities and Limits of Forgiveness.
