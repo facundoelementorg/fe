@@ -1,13 +1,14 @@
 ---
 title: Hearing Privilege II
-date: 2013-02-22 06:08:26
-tags: 
+date: {}
+tags: null
+published: true
 ---
-<h6><span style="color: #33cccc;">THE BUTTERFLY EFFECT SERIES:</span></h6>
-<h2>Hearing Privilege &amp; Unpacking in Action: A Story</h2>
+
+## THE BUTTERFLY EFFECT SERIES:
+### Hearing Privilege - Unpacking in Action: A Story
 (Part II)
-<h6><span style="color: #888888;">Alison Aubrecht &amp; Erin Furda: August 2012</span></h6>
-&nbsp;
+Alison Aubrecht & Erin Furda: August 2012
 
 I want to share this story because it’s true and it helps me see how audism and privilege prevail in my everyday life.  I am becoming more aware of my own position of power and privilege as a hearing person and a big part of that is participation in events that other hearing people give me permission to participate in.  Even when I realize the situation isn’t ethical, I tell myself it isn’t my fault.  I didn’t set up the interview without any Deaf people present.  I didn’t conduct an interview for an ASL teaching position over the phone.  I didn’t decide there should be all hearing presenters at the conference.  While I wasn’t the person “in charge” in these situations, I have always been left with an ill feeling, a feeling I am now learning to identify as participation in unethical or oppressive activity. I want to contribute to the dialogue on privilege and power and offer a real-life story . . .
 
@@ -28,22 +29,13 @@ Karen and I are currently working on our presentation and I am now looking forwa
 I want to ally with Deaf people and one way I see to do this is to be aware of professional opportunities I am given and to be careful and thoughtful about the roles I accept and the situations I participate in.
 
 Some tips for unpacking:
-<ol>
-<ol>
-<ol>
-	<li>Make a list of all the privileges you may have.</li>
-	<li>Take a moment, every day, to work on understanding and undoing your privileges.</li>
-	<li>Understand that one act on one day does not mean you have completed the work of becoming a hearing ally. Don’t seek gratitude for your work in unpacking and/or becoming an ally.</li>
-	<li>Identify small and large ways you can begin to actively change systems that grant you privileges in order to ensure that the playing field is more equal.</li>
-	<li>Recognize that remaining “neutral” or “objective” can be a form of hearing privilege.</li>
-	<li>Share information with non-privileged groups who may not be given access.</li>
-	<li>If you take a position where you have the opportunity to work with Deaf people, or talk about Deaf people, make sure that you share information about Deaf people, give credit to them. Donate a portion of your profits to organizations led principally by Deaf people.</li>
-	<li>Accept that making mistakes is part of the unpacking process and becoming an ally. Don’t give up.</li>
-	<li>Reference: Tools for Liberation Packet, 2007 (<a title="http://www.safehousealliance.org" href="http://www.safehousealliance.org/">www.safehousealliance.org</a>)</li>
-</ol>
-</ol>
-</ol>
-<span class="Apple-style-span" style="font-size: 24px; font-weight: bold; line-height: 38px;"><img alt="compass" src="http://facundoelement.com/wp-content/uploads/2013/02/compass.png" width="702" height="100" /></span>
-<h6 style="text-align: right;">{ <a href="#top">back to top</a> }</h6>
-<div></div>
-<div></div>
+- Take a moment, every day, to work on understanding and undoing your privileges.
+- Understand that one act on one day does not mean you have completed the work of becoming a hearing ally. Don’t seek gratitude for your work in unpacking and/or becoming an ally.
+- Identify small and large ways you can begin to actively change systems that grant you privileges in order to ensure that the playing field is more equal.
+- Recognize that remaining “neutral” or “objective” can be a form of hearing privilege.
+- Share information with non-privileged groups who may not be given access.
+- If you take a position where you have the opportunity to work with Deaf people, or talk about Deaf people, make sure that you share information about Deaf people, give credit to them. Donate a portion of your profits to organizations led principally by Deaf people.
+- Accept that making mistakes is part of the unpacking process and becoming an ally. 
+- Don’t give up.
+
+Reference: Tools for Liberation Packet, 2007 http://www.safehousealliance.org
