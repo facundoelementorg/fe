@@ -14,7 +14,7 @@ March 1, 2011
 
 From: Michael Clayton (2007)
 
-<iframe src="//player.vimeo.com/video/19551476" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/19551476">The Gallaudet Syndrome: Exploring Power, Privilege, and Accountability - Part 3</a> from <a href="http://vimeo.com/user5480741">Butterfly Effect Series</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="//player.vimeo.com/video/20501627" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/20501627">The Gallaudet Syndrome: Rebirth</a> from <a href="http://vimeo.com/user5480741">Butterfly Effect Series</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 [Butterfly Effect Series on Vimeo](http://vimeo.com/user5480741).
 
 In this final installment of the Gallaudet Syndrome series, we begin the journey from reflection to action. Both elements are essential if change is to come into being. The choice to act is a powerful statement and it is also a decision that evokes fear. But it is as necessary as breathing. Absolutely.
@@ -39,7 +39,7 @@ It’s like we are in a small room with limited oxygen and the ceiling is droppi
 
 The first action we must take is to declare ourselves fully human, completely worthy—and _believe_ it deep down inside. And the next step is to share that declaration.
 
-We ask you to make a very brief video of yourself stating the following: “I am human. I will resist oppression,” and post it on http://www.facebook.com/pages/FE-Butterfly-Effect/174253545946868?ref=ts&amp;v=wall" Facebook - FE: Butterfly Effect. If you know someone who may not have access to video or internet technology but may want to post, work with them to get their declaration up too. As a symbol of unity we ask that you wear a red shirt in the video.
+We ask you to make a very brief video of yourself stating the following: “I am human. I will resist oppression,” and post it on [Facebook - FE: Butterfly Effect](http://www.facebook.com/pages/FE-Butterfly-Effect/174253545946868?ref=ts&amp;v=wall). If you know someone who may not have access to video or internet technology but may want to post, work with them to get their declaration up too. As a symbol of unity we ask that you wear a red shirt in the video.
 
 A parting message:  “People who shut their eyes to reality simply invite their own destruction, and anyone who insists on remaining in a state of innocence long after that innocence is dead turns itself into a monster." -James Baldwin
 
