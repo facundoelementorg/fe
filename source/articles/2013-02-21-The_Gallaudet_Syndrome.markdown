@@ -45,7 +45,7 @@ http://vimeo.com/17964630 The Gallaudet Syndrome 1.1 from http://vimeo.com/user5
 See also: http://youtu.be/RrViTBeOvZo Castberggaard Syndrome
 
 
-*Silent Howl Pamela Wright
+*Silent Howl. Pamela Wright
 Published in Deaf American Poetry
 John Lee Clark (2009)
 
