@@ -10,7 +10,7 @@ published: true
 Alison L. Aubrecht (‘01, G ‘03) and Ryan Commerson (‘01, G ‘08)
 November 8, 2010
 
-http://vimeo.com/18728268 The Gallaudet Syndrome: On Profiting from Deafness from http://vimeo.com/user5480741 Butterfly Effect Series on Vimeo.
+[The Gallaudet Syndrome: On Profiting from Deafness](http://vimeo.com/18728268) from [Butterfly Effect Series on Vimeo](http://vimeo.com/user5480741).
 
 Money is Power. Power is Money. And Control. And Ego.
 
@@ -40,10 +40,6 @@ Once again: how much is the deaf being worth? And to whom?
 
 Perhaps more pertinent: how much motivation is there to keep deaf beings in boxed cars?
 
-http://facundoelement.com/projects/the-gallaudet-syndrome/gs-iii/
-Continue to part iii in The Gallaudet Syndrome Series: Hearing Privileges
-
-http://facundoelement.com/wp-content/uploads/2013/02/compass.png
 
 http://www.asha.org/
 http://www.audiology.org/Pages/default.aspx
