@@ -12,7 +12,7 @@ September 13, 2010
 
 “I have seen strong-willed individuals crumble in desperation, flailing in frustration, crying out in a fight against helplessness, and straining against steely chains, clinging to stubbornly optimistic desires against constant oppression and ignorance and I have seen denials repeatedly Uncle Tom-ed, the wishfully daring becoming fodder for pinching, parroting crabs retrogressingly destroying courage with silence"
 
-Pamela Wright-Meinhardt; Silent Howl*
+Pamela Wright - Silent Howl*
 
 http://vimeo.com/17804534 The Gallaudet Syndrome 1 from http://vimeo.com/user5480741 Butterfly Effect Series on Vimeo.
 
