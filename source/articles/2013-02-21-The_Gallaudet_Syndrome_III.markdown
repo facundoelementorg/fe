@@ -5,8 +5,8 @@ tags: null
 published: true
 ---
 
-THE BUTTERFLY EFFECT SERIES:
-The Gallaudet Syndrome: Hearing Privileges
+## THE BUTTERFLY EFFECT SERIES:
+### The Gallaudet Syndrome: Hearing Privileges
 A Thesis by Tiffany Tuccoli (G ‘08)
 Presented by Alison L. Aubrecht (‘01, G ‘03) and Ryan Commerson (‘01, G ‘08)
 December 6, 2010
