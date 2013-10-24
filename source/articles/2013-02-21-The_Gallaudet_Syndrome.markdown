@@ -5,8 +5,8 @@ tags: null
 published: true
 ---
 
-THE BUTTERFLY EFFECT SERIES:
-The Gallaudet Syndrome
+## THE BUTTERFLY EFFECT SERIES:
+### The Gallaudet Syndrome
 Alison L. Aubrecht (‘01, G ‘03) and Ryan Commerson (‘01, G ‘08)
 September 13, 2010
 
