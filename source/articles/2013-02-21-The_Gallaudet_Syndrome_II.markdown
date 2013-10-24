@@ -10,7 +10,8 @@ published: true
 Alison L. Aubrecht (‘01, G ‘03) and Ryan Commerson (‘01, G ‘08)
 November 8, 2010
 
-[The Gallaudet Syndrome: On Profiting from Deafness](http://vimeo.com/18728268) from [Butterfly Effect Series on Vimeo](http://vimeo.com/user5480741).
+<iframe src="//player.vimeo.com/video/18728268" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/18728268">The Gallaudet Syndrome: On Profiting from Deafness</a> from <a href="http://vimeo.com/user5480741">Butterfly Effect Series</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+[Butterfly Effect Series on Vimeo](http://vimeo.com/user5480741).
 
 Money is Power. Power is Money. And Control. And Ego.
 
