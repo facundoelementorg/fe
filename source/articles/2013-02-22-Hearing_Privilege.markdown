@@ -1,15 +1,16 @@
 ---
 title: Hearing Privilege
-date: 2013-02-22 06:07:11
-tags: 
+date: {}
+tags: null
+published: true
 ---
-<h6><span style="color: #33cccc;">THE BUTTERFLY SERIES:</span></h6>
-<h2>Exploring Hearing Privilege:</h2>
-<h3>An Introduction</h3>
+
+## THE BUTTERFLY SERIES:
+### Exploring Hearing Privilege: An Introduction
 (Part I)
-<h6>Alison Aubrecht &amp; Erin Furda: August 2012</h6>
-&nbsp;
-<h6>Erin:</h6>
+Alison Aubrecht; Erin Furda: August 2012
+
+Erin:
 For me, it has been important to remember what privilege means.  It means experiences, access, rights that I have because I am hearing.  One major thing that came up is that my privileges as a hearing person intersect heavily with being white, growing up middle class, and being an English speaker.  I tried to focus on privileges that are the most directly related to being hearing.
 
 If I am unaware of the privileges I have, I am going to participate in the oppression of other people, often unknowingly, and I don’t want to do that.  I have always believed in equality, but thinking or believing in something isn’t enough.  I need to see what my role is and ask myself how I can act in ways that do not perpetuate audism, racism, sexism, homophobia, and other forms of oppression.
@@ -17,11 +18,13 @@ If I am unaware of the privileges I have, I am going to participate in the oppre
 When I was invited to write a list of hearing privileges, I was really excited.  I started thinking and writing immediately and within a few days had developed quite a list.  I started with the more obvious privileges like access to communication, but then got into deeper, more personal items that I found when I really looked at my own experiences.  We had agreed to write our lists separately and then share them with each other and compare what we had come up with.  Interestingly, as I got ready to send my list to Alison, I hesitated.  I felt a little nervous.  Here I was, able to generate a long list of hearing privileges, but what would my list reveal about me? Would it show that I don’t know enough? Or, would my list be long and brutal compared to hers? The later thought being quite ironic, as if I would see more hearing privilege than she would.
 
 When we finally did exchange lists, there were many similarities.  I realized that the honest risk-taking is what allowed me to understand and learn more.  Writing a list of hearing privileges and reflecting independently was a meaningful exercise for me as a hearing person, but sharing my list with a Deaf person was a different thing entirely.  I think it’s an important form of accountability and a great opportunity to understand these issues more deeply.  Just knowing I was going to share my list with Alison pushed me to be more critical and I am grateful to her for this.
-<h6>Alison:</h6>
+
+Alison:
 It has been a challenge to phrase statements so that the “privilege” is reflective of a system that favors or gives advantages to hearing people as opposed to presenting the “deaf can’t- and therefore should prefer to become hearing” perspective, where we once again demonize the individual. And that is yet another privilege that hearing people have—that the system comes with that ready-made frame that gives preference to the state of being hearing, that the ideology is so prevalent and so pervasive that it is difficult to present the truth that Deaf beings are living within a system that constantly invalidates their existence without people jumping to the pathological idea that a simple way to “fix” barriers would be to make Deaf people hearing. It is hearing privilege that jumping to this idea is acceptable, that no one expresses concern that “fixing” is equivalent to destroying the Deaf being. And it is hearing privilege that the idea of “fixing” is “the norm,” “benevolent,” “acceptable,” “neutral,” while the idea that this is in actuality a destructive approach is considered “radical,” “militant,” “hurtful.”
 
 Taking this journey with Erin has been both humbling and validating. To watch someone so openly wrestle with her privilege inspires me to also work through mine. And it is a form of love that she would endeavor to stand with me, with us this way. Even in the safety of our dialogue I on occasion catch myself wanting to be gentler, which in itself can be a form of deference to the privileged. Erin does not reach for that refuge where too many of us seek to hide from the rawness of introspection. She instead continues to push herself and owns every action, every word. And that in itself is a refusal to hold onto power, a parallel process to the very article we are collaborating on.
-<h3>Statements of Hearing Privilege</h3>
+
+Statements of Hearing Privilege
 The statements below refer to privileges that we feel a person has on the merit of their hearing status alone. We do recognize that there are intersections present and that there are some privileges listed below that are specific to members of the English speaking community (in America). Because of the Deaf-hearing collaboration we have opted out of using I-statements in discussing the privileges below. We invite you to add more statements.
 
 Hearing privilege is not being a “new experience” for others.
@@ -115,10 +118,3 @@ Hearing privilege is representing yourself.  Knowing your exact choice of words
 Hearing privilege is being able to expect to have direct conversations with teachers, with supervisors, with board members anywhere.
 
 Hearing privilege is showing up at your city council, senator’s office, congressperson’s, governor’s, or president’s office anytime and being able to have a direct conversation in your language.
-<h2><img alt="compass" src="http://facundoelement.com/wp-content/uploads/2013/02/compass.png" width="702" height="100" /></h2>
-<h6 style="text-align: right;"><strong>{ <a href="#top">back to top</a> }</strong></h6>
-<div>
-
-&nbsp;
-
-</div>
