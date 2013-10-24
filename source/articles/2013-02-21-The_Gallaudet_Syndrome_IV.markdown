@@ -10,7 +10,7 @@ published: true
 Alison L. Aubrecht (‘01, G ‘03) and Ryan Commerson (‘01, G ‘08)
 January 24, 2011
 
-“Rest here, Father of us all!
+> Rest here, Father of us all!
 And when we pass thee by,
 ‘Twill be with bared head and heart,
 and mutely reverent eye.
@@ -19,9 +19,10 @@ Thank God, He gave thee unto us
 To free us from our woe,
 And put the key into thy hand
 One hundred years ago.”
--Laura C. Redden, “Thomas Hopkins Gallaudet”
+-Laura C. Redden, “Thomas Hopkins Gallaudet"
 
-http://vimeo.com/19548959 The Gallaudet Syndrome: Exploring Power, Privilege, and Accountability - Part 1 from http://vimeo.com/user5480741 Butterfly Effect Series Vimeo.
+<iframe src="//player.vimeo.com/video/19548959" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/19548959">The Gallaudet Syndrome: Exploring Power, Privilege, and Accountability - Part 1</a> from <a href="http://vimeo.com/user5480741">Butterfly Effect Series</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+[Butterfly Effect Series Vimeo](http://vimeo.com/user5480741).
 
 At Gallaudet University, there rests a bronze statue of Thomas Hopkins Gallaudet cradling Alice Cogswell in his lap. Take a moment to consider what story is told when a young deaf female student sits on her male teacher’s lap, gazing adoringly at him.  What door did that key open?
 
@@ -53,7 +54,8 @@ There is another group, one that is less often discussed:
 
 Below, we examine groups of Deaf individuals who have a little, but want more privileges, and ways that this group sometimes denies a more just society.
 
-http://vimeo.com/19549012 The Gallaudet Syndrome: Exploring Power, Privilege, and Accountability - Part 2 from http://vimeo.com/user5480741 Butterfly Effect Series Vimeo.
+<iframe src="//player.vimeo.com/video/19549012" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/19549012">The Gallaudet Syndrome: Exploring Power, Privilege, and Accountability - Part 2</a> from <a href="http://vimeo.com/user5480741">Butterfly Effect Series</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+[Butterfly Effect Series Vimeo](http://vimeo.com/user5480741).
 
 What does it feel like to be oppressed? Words alone cannot describe that soul-deep suffocation, and the realization of the state of being oppressed is just as damning.
 
@@ -72,7 +74,6 @@ In fighting for liberation from Audism, what happens? Perhaps something like thi
 	Deaf man oppresses Deaf woman (Sexism)
 	White Deaf woman oppresses Black Deaf woman (Racism)
 
-
 Many Deaf leaders, for instance, will advocate for social liberation of Deaf individuals only to a point. They may, for instance, push for more captioning and rights to interpreting services, but turn stoic when asked to invest in reforming Deaf education. When Deaf activists “rock the boat,” our own deaf have-a-little-want-mores are the individuals that the hearing oppressor usually sends to placate or shut down those who are pushing for change. And they do step in to put out fires, in part because they are afraid of losing the little power that the oppressor has granted them.
 
 Another example, one that’s more often discussed in our community, would be the Deaf person who oppresses deaf individuals. This subjugation is often thrown into the discussion, like a disabling wrench, when Deaf individuals attempt to liberate themselves from the hearing agenda.
@@ -87,7 +88,8 @@ Interestingly, Freire addresses this dynamic, “It is a rare peasant who, once 
 
 Clearly, there are many layers to explore in each example, and this validates the need for more conversations on the topic. The scenarios in this section are not shared with the intent of justifying such acts of oppression. Instead, we strive to unearth ways in which we, too, oppress.
 
-http://vimeo.com/19551476 The Gallaudet Syndrome: Exploring Power, Privilege, and Accountability - Part 3 from http://vimeo.com/user5480741 Butterfly Effect Series Vimeo.
+<iframe src="//player.vimeo.com/video/19551476" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/19551476">The Gallaudet Syndrome: Exploring Power, Privilege, and Accountability - Part 3</a> from <a href="http://vimeo.com/user5480741">Butterfly Effect Series</a> on <a href="https://vimeo.com">Vimeo</a>.</p> 
+[Butterfly Effect Series Vimeo](http://vimeo.com/user5480741).
 
 “The oppressed must be their own example in the struggle for their redemption.”
 (Freire, p. 54)
@@ -100,10 +102,6 @@ It is essential that we do not emulate the oppressor in the struggle to celebrat
 
 More than that, though, we must eradicate the attempted colonization of our souls, the ways in which we are twisted into negative, angry, oppressive, violent beasts who claw their way viciously through doorways. . . only to fall into that yawning chasm that is ego.
 
-http://facundoelement.com/projects/the-gallaudet-syndrome/gs-v/ 
-Continue to part v in The Gallaudet Syndrome Series: Rebirth
-
-http://facundoelement.com/wp-content/uploads/2013/02/compass.png
 
 Saul Alinsky (1971). Rules for Radicals.
 Roger J. Carver, M. Ed. “Deaf Community: Deaf Youth’s Missing Link” 12th Annual Mental Health; Deafness Conference, Toronto, Ontario, Canada- May 12, 1992.
