@@ -14,7 +14,8 @@ September 13, 2010
 
 Pamela Wright - Silent Howl*
 
-[The Gallaudet Syndrome 1](http://vimeo.com/17804534) from [Butterfly Effect Series on Vimeo](http://vimeo.com/user5480741).
+<iframe src="//player.vimeo.com/video/17804534" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/17804534">The Gallaudet Syndrome 1</a> from <a href="http://vimeo.com/user5480741">Butterfly Effect Series</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+[Butterfly Effect Series on Vimeo](http://vimeo.com/user5480741).
 
 Is Gallaudet University worth preserving? What is Gallaudet’s identity? If the answer is that it is a university that exclusively serves deaf people, then how does Gallaudet define “deaf”?
 
