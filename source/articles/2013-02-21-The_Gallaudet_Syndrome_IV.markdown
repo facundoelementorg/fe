@@ -5,8 +5,8 @@ tags: null
 published: true
 ---
 
-THE BUTTERFLY EFFECT SERIES:
-The Gallaudet Syndrome: Exploring Power, Privilege, and Accountability
+## THE BUTTERFLY EFFECT SERIES:
+### The Gallaudet Syndrome: Exploring Power, Privilege, and Accountability
 Alison L. Aubrecht (‘01, G ‘03) and Ryan Commerson (‘01, G ‘08)
 January 24, 2011
 
