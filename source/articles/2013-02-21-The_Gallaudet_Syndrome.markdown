@@ -46,9 +46,6 @@ See also: http://youtu.be/RrViTBeOvZo Castberggaard Syndrome
 
 http://facundoelement.com/projects/the-gallaudet-syndrome/gs-ii/ Continue to part ii in The Gallaudet Syndrome Series: On Profiting from Deafness
 
-http://facundoelement.com/wp-content/uploads/2013/02/compass.png
-
-back to top
 
 *Silent Howl Pamela Wright-Meinhardt
 Published in Deaf American Poetry
