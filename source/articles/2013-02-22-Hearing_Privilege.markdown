@@ -8,7 +8,7 @@ published: true
 ## THE BUTTERFLY SERIES:
 ### Exploring Hearing Privilege: An Introduction
 (Part I)
-Alison Aubrecht; Erin Furda: August 2012
+Alison Aubrecht & Erin Furda: August 2012
 
 Erin:
 For me, it has been important to remember what privilege means.  It means experiences, access, rights that I have because I am hearing.  One major thing that came up is that my privileges as a hearing person intersect heavily with being white, growing up middle class, and being an English speaker.  I tried to focus on privileges that are the most directly related to being hearing.
